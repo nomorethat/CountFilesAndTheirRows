@@ -1,6 +1,6 @@
 import os
 
-root_dir = '/home/administrator/PhpstormProjects/outlet-react/src'
+root_dir = '/home'
 
 total_count_rows = 0
 total_count_files = 0
